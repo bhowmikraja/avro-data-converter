@@ -1,5 +1,5 @@
 {
-  "homepage": "http://bhowmikraja.github.io/avro-data-converter",
+  "homepage": "https://bhowmikraja.github.io/avro-data-converter",
   "name": "avro-data-converter",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,6 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
